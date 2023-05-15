@@ -25,7 +25,7 @@ extensions = [
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '.sphinx']
 
 intersphinx_mapping = {
-    'main-cpc': ('https://canonical-public-cloud-docs1.readthedocs-hosted.com/', None)
+    'main-cpc': ('https://canonical-public-cloud-docs.readthedocs-hosted.com/', None)
 }
 
 # -- Options for HTML output -------------------------------------------------
